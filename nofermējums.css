@@ -1,0 +1,56 @@
+h4{
+    color: green
+}
+
+body{
+    background-color: rgb(207, 252, 207); 
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px
+}
+
+.text{
+    text-decoration: none;
+    outline-color: blueviolet;
+    color: rgb(189, 154, 155);
+    color: black;
+	font-size: 34px;
+	-webkit-text-stroke: 1px black;
+	-webkit-text-fill-color: rgb(0, 225, 255);
+
+}
+
+
+.text:hover {
+    -webkit-text-stroke: 1px black;
+	-webkit-text-fill-color: rgb(0, 94, 117);
+}
+
+.kaste {
+    background-color: aquamarine;
+}
+
+.kastite {
+    background-color: blue;
+    
+}
+
+.blakus {
+    float: left;
+}
+
+
+table, tr, td, th {
+    border: 5px solid red;
+    border-collapse: collapse;
+    
+}
+
+
+.kva {
+    list-style-type: square;
+}
+
+.burt {
+    list-style-type: lower-alpha;
+}
